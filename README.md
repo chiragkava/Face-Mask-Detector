@@ -1,6 +1,6 @@
 # Face-Mask-Detector
 Application to check whether people are wearing masks or not
-<br>LIVE :link: https://chiragkavafmask.herokuapp.com/
+<br> <img src="https://img.shields.io/badge/LIVE-<GREEN>"> :link: https://chiragkavafmask.herokuapp.com/
 
 API / Framework used:
 * YOLOV5
