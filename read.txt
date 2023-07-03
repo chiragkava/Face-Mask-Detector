@@ -1,0 +1,1 @@
+https://awstip.com/deploying-flask-applications-on-aws-lambda-with-sam-a-comprehensive-guide-to-serverless-python-be0d4884f960
