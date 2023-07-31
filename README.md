@@ -1,17 +1,26 @@
 # Face-Mask-Detector
+
+New Release:
+
+-   Migrated to AWS
+-   Restructered code
+
 Application to check whether people are wearing masks or not
-<br> <img src="https://img.shields.io/badge/LIVE-<GREEN>"> :link: https://chiragkavafmask.herokuapp.com/
+<br> <img src="https://img.shields.io/badge/LIVE-<GREEN>"> :link: https://iv000vo6mf.execute-api.ap-south-1.amazonaws.com/dev/
 
 API / Framework used:
-* YOLOV5
-  * Used To train the model on custom dataset.  
-* Flask
-  * Used to connect backend(python) with the frontend(website).
-* Pytorch
-  * Used to load model and run inference on images.
-* Bootstrap
-  * Used for styling components and to make App responsive in all devices and screens
+
+-   YOLOV5
+    -   Used To train the model on custom dataset.
+-   Flask
+    -   Used to connect backend(python) with the frontend(website).
+-   Pytorch
+    -   Used to load model and run inference on images.
+-   Bootstrap
+    -   Used for styling components and to make App responsive in all devices and screens
+
 ## Screenshots
+
 <table>
   <tr>
     <td>Small Devices</td>
@@ -31,6 +40,3 @@ API / Framework used:
     <td><img src="https://user-images.githubusercontent.com/61086004/124265751-cba09780-db53-11eb-9610-857eb46643af.png" height=800 width=928></td>
   </tr>
 </table>
-
-
-                        
