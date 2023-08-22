@@ -40,3 +40,5 @@ API / Framework used:
     <td><img src="https://user-images.githubusercontent.com/61086004/124265751-cba09780-db53-11eb-9610-857eb46643af.png" height=800 width=928></td>
   </tr>
 </table>
+
+Note Lambda invocation might take time if its getting initialized after long time. In this case check after 1 - 2 minutes.
